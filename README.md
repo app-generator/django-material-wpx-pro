@@ -1,4 +1,4 @@
-# [Django Material Dashboard PRO (WrapPixel)](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro)
+# [Django Dashboard Material PRO Wpx](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro)
 
 > Commercial product - **Django Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -203,4 +203,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Django Material Dashboard PRO (WrapPixel)](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Dashboard Material PRO Wpx](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
