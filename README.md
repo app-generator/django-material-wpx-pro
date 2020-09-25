@@ -10,6 +10,8 @@
 - **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
 - 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
+<br />
+
 > Links
 
 - [Django Material Dashboard PRO Wpx](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro) - product page
