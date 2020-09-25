@@ -16,7 +16,7 @@
 
 - [Django Material Dashboard PRO Wpx](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro) - product page
 - [Django Dashboard Material PRO - Demo](https://django-material-dashboard-wpx-pro.appseed.us/) - LIVE Demo
-- [Django Dashboard Material PRO - Docs](https://docs.appseed.us/boilerplate-code/django-dashboard/) - product documentation
+- [Django Dashboard Material PRO - Docs](https://docs.appseed.us/admin-dashboards/django-material-dashboard-wpx-pro/) - product documentation
 
 <br />
 
