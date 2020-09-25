@@ -12,11 +12,9 @@
 
 > Links
 
-- [Django Material Dashboard PRO (WrapPixel)](https://django-material-dashboard-wpx-pro.appseed.us/) - LIVE Demo
-- [Boierplate Code Django](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Documentation
-- [Django Material Dashboard PRO (WrapPixel)](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro) - Official product page
-- More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
-- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
+- [Django Material Dashboard PRO Wpx](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro) - product page
+- [Django Dashboard Material PRO - Demo](https://django-material-dashboard-wpx-pro.appseed.us/) - LIVE Demo
+- [Django Dashboard Material PRO - Docs](https://docs.appseed.us/boilerplate-code/django-dashboard/) - product documentation
 
 <br />
 
