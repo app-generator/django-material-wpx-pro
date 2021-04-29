@@ -1,22 +1,20 @@
-# [Django Dashboard Material PRO Wpx](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro)
+# Django Material Wpx PRO (WrapPixel)
 
-> Commercial product - **Django Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
+> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in Django - Features:
 
-- UI Kit: **MaterialPro Dashboard** (Premium Version) by **WrapPixel**
-- UI-Ready app, SQLite Database, Django Native ORM
-- Modular design, clean code-base
+- UI Kit: **Material PRO Dashboard** (Lite Version) provided by **WrapPixel**
+- SQLite Database, Django Native ORM
+- Modular design, clean codebase
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
-- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
 > Links
 
-- [Django Material Dashboard PRO Wpx](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro) - product page
-- [Django Dashboard Material PRO - Demo](https://django-material-dashboard-wpx-pro.appseed.us/) - LIVE Demo
-- [Django Dashboard Material PRO - Docs](https://docs.appseed.us/admin-dashboards/django-material-dashboard-wpx-pro/) - product documentation
+- [Django Material PRO Wpx](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro) - product page
+- [Django Material PRO Wpx](https://django-material-wpx-pro.appseed-srv1.com) - LIVE Demo
 
 <br />
 
@@ -28,8 +26,8 @@
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/priv-django-material-dashboard-wpx-pro.git
-$ cd priv-django-material-dashboard-wpx-pro
+$ git clone https://github.com/app-generator/priv-django-material-wpx-pro.git
+$ cd priv-django-material-wpx-pro
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -137,8 +135,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/priv-django-material-dashboard-wpx-pro.git
-$ cd priv-django-material-dashboard-wpx-pro
+$ git clone https://github.com/app-generator/priv-django-material-wpx-pro.git
+$ cd priv-django-material-wpx-pro
 ```
 
 > Start the app in Docker
@@ -203,4 +201,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Django Dashboard Material PRO Wpx](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+Django Material Wpx PRO (WrapPixel) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
