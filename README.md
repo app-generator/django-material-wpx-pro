@@ -2,9 +2,11 @@
 
 Premium **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of MaterialPro Bootstrap (PRO Version), a modern Bootstrap dashboard design. [WrapPixel](https://appseed.us/agency/wrappixel)'s **MaterialPro Bootstrap** is one of the best Bootstrap templates for admin dashboards and control admin panels. Based on the popular Bootstrap 4 framework and inspired by Google’s material design, the MaterialPro Bootstrap Admin template is bundled with multiple third-party plugins that make it an excellent standalone solution.
 
+<br />
+
 > Features:
 
-- Up-to-date [dependencies](./requirements.txt): **Django 3.2.6 LTS**
+- `Up-to-date dependencies`: **Django 3.2.6 LTS**
 - [SCSS compilation](#recompile-css) via **Gulp**
 - UI Kit: **Material PRO Dashboard** (Lite Version) provided by **WrapPixel**
 - SQLite Database, Django Native ORM
@@ -19,7 +21,27 @@ Premium **Django Dashboard** coded with basic modules, database, ORM and deploym
 
 - [Django Material PRO Wpx](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro) - product page
 - [Django Material PRO Wpx](https://django-material-wpx-pro.appseed-srv1.com) - LIVE Demo
-- [Django Material PRO Wpx](https://docs.appseed.us/products/django-dashboards/materialpro-wpx) - product documentation
+
+<br />
+
+## Quick Start in [Docker](https://www.docker.com/)
+
+> Get the code
+
+```bash
+$ git clone https://github.com/app-generator/priv-django-material-wpx-pro.git
+$ cd priv-django-material-wpx-pro
+```
+
+> Start the app in Docker
+
+```bash
+$ docker-compose pull   # download dependencies 
+$ docker-compose build  # local set up
+$ docker-compose up -d  # start the app 
+```
+
+Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
@@ -173,28 +195,6 @@ The generated file is saved in `static/assets/css` directory.
 ## Deployment
 
 The app is provided with a basic configuration to be executed in [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
-
-### [Docker](https://www.docker.com/) execution
----
-
-The application can be easily executed in a docker container. The steps:
-
-> Get the code
-
-```bash
-$ git clone https://github.com/app-generator/priv-django-material-wpx-pro.git
-$ cd priv-django-material-wpx-pro
-```
-
-> Start the app in Docker
-
-```bash
-$ sudo docker-compose pull && sudo docker-compose build && sudo docker-compose up -d
-```
-
-Visit `http://localhost:85` in your browser. The app should be up & running.
-
-<br />
 
 ### [Gunicorn](https://gunicorn.org/)
 ---
