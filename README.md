@@ -1,4 +1,4 @@
-# Django Material Wpx PRO (WrapPixel)
+# Django MaterialPRO (WrapPixel)
 
 Premium **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of MaterialPro Bootstrap (PRO Version), a modern Bootstrap dashboard design. [WrapPixel](https://appseed.us/agency/wrappixel)'s **MaterialPro Bootstrap** is one of the best Bootstrap templates for admin dashboards and control admin panels. Based on the popular Bootstrap 4 framework and inspired by Google’s material design, the MaterialPro Bootstrap Admin template is bundled with multiple third-party plugins that make it an excellent standalone solution.
 
